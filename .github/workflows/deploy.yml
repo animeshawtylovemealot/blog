@@ -1,4 +1,4 @@
-name: deploy blog to tencent-cloud
+name: deploy blog to tencent
 on:
   push:
     branches:
